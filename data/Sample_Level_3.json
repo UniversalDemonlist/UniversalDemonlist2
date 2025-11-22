@@ -1,16 +1,16 @@
 {
-    "id": 119544028,
-    "name": "Thinking Space II",
-    "author": "LevelUploader",
-    "creators": ["CairoX"],
-    "verifier": "Zoink",
-    "verification": "https://youtu.be/CELNmHwln_c",
-    "percentToQualify": 79,
+    "id": 119550490,
+    "name": "Amethyst",
+    "author": "iMist",
+    "creators": ["iMist"],
+    "verifier": "wPopoff",
+    "verification": "https://youtu.be/4lfkzz1VCbA",
+    "percentToQualify": 59,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "wPopoff",
-            "link": "https://www.youtube.com/watch?v=hJHiGeuahTI",
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=x3Sof3yGJ5Y",
             "percent": 100,
             "hz": 360
         }
