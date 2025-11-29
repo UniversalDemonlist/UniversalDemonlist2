@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=sxqgZh4sLb8",
             "percent": 100,
             "hz": 360            
+        },
+        {
+            "user": "PowerGreen",
+            "link": "https://www.youtube.com/watch?v=2LFHPsssy6Y",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
